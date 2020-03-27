@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace ConsoleApp2
+namespace RegularExpressions
 {
     class Program
     {
