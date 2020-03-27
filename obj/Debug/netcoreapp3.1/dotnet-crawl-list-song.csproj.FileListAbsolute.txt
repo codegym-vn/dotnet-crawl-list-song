@@ -1,0 +1,14 @@
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\dotnet-crawl-list-song.exe
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\dotnet-crawl-list-song.deps.json
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\dotnet-crawl-list-song.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\dotnet-crawl-list-song.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\dotnet-crawl-list-song.dll
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\dotnet-crawl-list-song.pdb
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\CodeGym\Practice\dotnet-crawl-list-song\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\CodeGym\Practice\dotnet-crawl-list-song\obj\Debug\netcoreapp3.1\dotnet-crawl-list-song.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-crawl-list-song\obj\Debug\netcoreapp3.1\dotnet-crawl-list-song.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-crawl-list-song\obj\Debug\netcoreapp3.1\dotnet-crawl-list-song.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-crawl-list-song\obj\Debug\netcoreapp3.1\dotnet-crawl-list-song.csproj.CopyComplete
+D:\CodeGym\Practice\dotnet-crawl-list-song\obj\Debug\netcoreapp3.1\dotnet-crawl-list-song.dll
+D:\CodeGym\Practice\dotnet-crawl-list-song\obj\Debug\netcoreapp3.1\dotnet-crawl-list-song.pdb
